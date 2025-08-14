@@ -15,21 +15,23 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikawari-s&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🟢 Deployed Projects
-​##📝 TaskHive
-TaskHive is a collaborative to-do list app built for groups—whether families, friends, classmates, or coworkers. Tasks can be created, assigned, marked complete, and discussed in real time. 
 
-Role:
-I was responsible for the main styling, feel, and overall design of the project. The project was made primarily in Bootstrap, but was heavily customized to match my vision. 
-I also handled bug fixes and React functionalities, but most core functionalities and backend connectivitiies were the responsibility of my Friend and Collaborator.
+## 📝 TaskHive
 
-##🚀 Features
-###👤 User authentication (sign up / log in / log out)
-###🧑‍🤝‍🧑 Invite users to join group to-do lists
-###🧾 Create, update, and delete tasks
-###🔍 Search for other users
-###💬 Real-time group chat
-###📱 Responsive UI design
-###🛠 Tech Stack
+**TaskHive** is a collaborative to-do list app designed for group productivity—whether you're working with family, friends, classmates, or coworkers. Users can create, assign, mark complete, and discuss tasks in real time.
+
+I handled the overall design, styling, and UI customization of the project using **Bootstrap**, extensively modified to fit my vision. I also managed front-end bug fixes and implemented several React functionalities. Core features and backend development were led by my collaborator.
+
+### 🚀 Features:
+
+* 👤 **User Authentication** – Sign up / Log in / Log out
+* 🧑‍🤝‍🧑 **Group Collaboration** – Invite users to shared to-do lists
+* 🧾 **Task Management** – Create, update, and delete tasks
+* 🔍 **User Search** – Find and connect with other users
+* 💬 **Real-Time Group Chat**
+* 📱 **Responsive UI Design**
+* 🛠 **Tech Stack:** React, Bootstrap (customized), and more
+
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
