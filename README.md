@@ -14,7 +14,24 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ikawari-s&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+# 🟢 Deployed Projects
+​##📝 TaskHive
+TaskHive is a collaborative to-do list app built for groups—whether families, friends, classmates, or coworkers. Tasks can be created, assigned, marked complete, and discussed in real time. 
+
+Role:
+I was responsible for the main styling, feel, and overall design of the project. The project was made primarily in Bootstrap, but was heavily customized to match my vision. 
+I also handled bug fixes and React functionalities, but most core functionalities and backend connectivitiies were the responsibility of my Friend and Collaborator.
+
+##🚀 Features
+###👤 User authentication (sign up / log in / log out)
+###🧑‍🤝‍🧑 Invite users to join group to-do lists
+###🧾 Create, update, and delete tasks
+###🔍 Search for other users
+###💬 Real-time group chat
+###📱 Responsive UI design
+###🛠 Tech Stack
+
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
