@@ -22,7 +22,7 @@
 
 # 🟢 Deployed Projects
 
-## 📝 TaskHive
+## 📝 [TaskHive](https://taskhive-8b031.web.app)
 
 **TaskHive** is a collaborative to-do list app designed for group productivity—whether you're working with family, friends, classmates, or coworkers. Users can create, assign, mark complete, and discuss tasks in real time.
 
@@ -38,6 +38,19 @@ I handled the overall design, styling, and UI customization of the project using
 * 📱 **Responsive UI Design**
 * 🛠 **Tech Stack:** React, Bootstrap (customized), and more
 
+##  🍗 [Dishcovery] ([https://github.com/johnmartinroque/LetterboxdClone](https://github.com/Ikawari-s/Dishcovery))
+
+**Dishcovery** is an app for food-lovers, where you could find whichever meal you're heart desires! Dishcovery includes the menu, reviews, ratings, and prices!
+
+My role focused on shaping the visual identity of the project through Tailwind CSS styling and UI enhancements. I took charge of refining the front-end experience by fixing bugs and building out key React components. The backend architecture and primary feature development were handled by my teammate.
+
+### 🚀 Features
+- 🔍 Browse and search for restaurants
+- 📝 Log and review 
+- ⭐ Rate and favorite restaurants
+- 🧾 View other users' food activity
+- 👤 User authentication (sign up/sign in)
+- 📱 Responsive UI design
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
