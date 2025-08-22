@@ -38,7 +38,7 @@ I handled the overall design, styling, and UI customization of the project using
 * 📱 **Responsive UI Design**
 * 🛠 **Tech Stack:** React, Bootstrap (customized), and more
 
-##  🍗 [Dishcovery] ([https://github.com/johnmartinroque/LetterboxdClone](https://github.com/Ikawari-s/Dishcovery))
+##  🍗 [Dishcovery](https://github.com/Ikawari-s/Dishcovery)
 
 **Dishcovery** is an app for food-lovers, where you could find whichever meal you're heart desires! Dishcovery includes the menu, reviews, ratings, and prices!
 
