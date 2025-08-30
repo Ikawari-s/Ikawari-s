@@ -14,7 +14,7 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-//  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikawari-s&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikawari-s&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="400" alt="Top Languages" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikawari-s&theme=blue-green&hide_border=false" width="560" alt="GitHub Streak Stats" />
 </p>
 
