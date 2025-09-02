@@ -52,7 +52,7 @@ My role focused on shaping the visual identity of the project through Tailwind C
 - 📱 Responsive UI design
 
 
-## ​🕹 [Guesserroom](https://guessroom.vercel.app)
+## ​🕹 [Guessroom](https://guessroom.vercel.app)
 A real-time multiplayer music guessing game built with Node.js, Express, Socket.IO, and React. Players can join lobbies with friends, listen to songs, and compete to guess the artist correctly.
 
 #### 🚀 Features
