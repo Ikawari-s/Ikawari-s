@@ -21,6 +21,19 @@
 
 # 🟢 Deployed Projects
 
+## ​🕹 [Guessroom](https://guessroom.vercel.app)
+A real-time multiplayer music guessing game built with Node.js, Express, Socket.IO, and React. Players can join lobbies with friends, listen to songs, and compete to guess the artist correctly.
+
+#### 🚀 Features
+
+🎮 Multi-lobby support – Create or join separate game rooms.  
+⚡ Real-time gameplay – Scores, user actions, and skip votes update instantly.  
+🏆 Score tracking – Points for every correct guess.  
+🎵 Round-based music – Songs are randomly selected per round.  
+⏭️ Skip system– Vote to skip songs.  
+📊 Game summary – Top 3 players displayed at the end.  
+
+
 ## 📝 [TaskHive](https://taskhive-8b031.web.app)
 
 **TaskHive** is a collaborative to-do list app designed for group productivity—whether you're working with family, friends, classmates, or coworkers. Users can create, assign, mark complete, and discuss tasks in real time.
@@ -51,18 +64,6 @@ My role focused on shaping the visual identity of the project through Tailwind C
 - 👤 User authentication (sign up/sign in)
 - 📱 Responsive UI design
 
-
-## ​🕹 [Guessroom](https://guessroom.vercel.app)
-A real-time multiplayer music guessing game built with Node.js, Express, Socket.IO, and React. Players can join lobbies with friends, listen to songs, and compete to guess the artist correctly.
-
-#### 🚀 Features
-
-🎮 Multi-lobby support – Create or join separate game rooms.  
-⚡ Real-time gameplay – Scores, user actions, and skip votes update instantly.  
-🏆 Score tracking – Points for every correct guess.  
-🎵 Round-based music – Songs are randomly selected per round.  
-⏭️ Skip system– Vote to skip songs.  
-📊 Game summary – Top 3 players displayed at the end.  
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
