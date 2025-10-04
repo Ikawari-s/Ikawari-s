@@ -61,7 +61,7 @@ My role focused on shaping the visual identity of the project through Tailwind C
 - 📝 Log and review 
 - ⭐ Rate and favorite restaurants
 - 🧾 View other users' food activity
-- 👤 User authentication (sign up/sign in)
+- 👤 User authentication (sign up/sign in) 
 - 📱 Responsive UI design
 
 
